@@ -1,7 +1,7 @@
 {
-  "name": "elforastero/transliterate",
-  "description": "Transliteration package for laravel 6",
-  "version": "3.0.0",
+  "name": "ymnik13/transliterate",
+  "description": "Transliteration package for laravel 7",
+  "version": "3.0.0-alpha",
   "type": "library",
   "license": "MIT",
   "authors": [
